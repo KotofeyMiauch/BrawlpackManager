@@ -3,12 +3,14 @@
 **Помощник по размещению предметов в Backpack Brawl для Windows и Android.**  
 **An inventory layout planner for Backpack Brawl, available for Windows and Android.**
 
-## Скачать актуальную версию
+## Скачать / Download
 
-- 💻 [Скачать для Windows](https://github.com/KotofeyMiauch/BrawlpackManager/releases/latest/download/BrawlpackManager-Windows.exe)
-- 📱 [Скачать для Android](https://github.com/KotofeyMiauch/BrawlpackManager/releases/latest/download/BrawlpackManager-Android.apk)
+- 💻 [Windows — скачать EXE / Download EXE](https://github.com/KotofeyMiauch/BrawlpackManager/releases/latest/download/BrawlpackManager-Windows.exe)
+- 📱 [Android — скачать APK / Download APK](https://github.com/KotofeyMiauch/BrawlpackManager/releases/latest/download/BrawlpackManager-Android.apk)
 
-[Что нового в последней версии](https://github.com/KotofeyMiauch/BrawlpackManager/releases/latest)
+[Изменения в последней версии / Latest release notes](https://github.com/KotofeyMiauch/BrawlpackManager/releases/latest)
+
+---
 
 [Русский](#русский) · [English](#english)
 
